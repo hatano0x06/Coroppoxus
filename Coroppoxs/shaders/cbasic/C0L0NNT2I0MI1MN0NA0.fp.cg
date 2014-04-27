@@ -1,0 +1,40 @@
+/* PlayStation(R)Mobile SDK 1.11.01
+ * Copyright (C) 2013 Sony Computer Entertainment Inc.
+ * All Rights Reserved.
+ */
+//地面・波打ち際
+//------------------------------------------------------------------------------------------
+void main(
+	float2 in v_TexCoord00			: TEXCOORD0,
+	float2 in v_TexCoord01			: TEXCOORD1,
+
+	float4 out Color				: COLOR,
+
+	uniform float4 IDiffuse,
+
+	uniform sampler2D Texture00,
+	uniform sampler2D Texture01
+)
+{
+	Color = IDiffuse;
+
+	float4 dstColor = Color;
+	float4 texColor = tex2D( Texture00, v_TexCoord00 );
+	/*
+	dstColor.x= 0.0f;
+	dstColor.y= 0.0f;
+	dstColor.z= 0.0f;
+	dstColor.w= 0.0f;
+*/
+	Color = dstColor * texColor;
+	dstColor = Color;
+	
+	/*
+	dstColor.x= 0.0f;
+	dstColor.y= 0.0f;
+	dstColor.z= 0.0f;
+	dstColor.w= 0.0f;
+*/
+	texColor = tex2D( Texture01, v_TexCoord01 );
+	Color = dstColor * texColor;
+}

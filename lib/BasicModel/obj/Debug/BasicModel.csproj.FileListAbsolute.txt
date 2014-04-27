@@ -1,0 +1,9 @@
+C:\Documents and Settings\All Users\Documents\PSM\sample\demo\lib\BasicModel\bin\Debug\BasicModel.dll
+C:\Documents and Settings\All Users\Documents\PSM\sample\demo\lib\BasicModel\bin\Debug\BasicModel.pdb
+C:\Documents and Settings\All Users\Documents\PSM\sample\demo\lib\BasicModel\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\All Users\Documents\PSM\sample\demo\lib\BasicModel\obj\Debug\BasicModel.dll
+C:\Documents and Settings\All Users\Documents\PSM\sample\demo\lib\BasicModel\obj\Debug\BasicModel.pdb
+C:\Users\Public\Documents\PSM\sample\demo\stageChange-188\lib\BasicModel\bin\Debug\BasicModel.dll
+C:\Users\Public\Documents\PSM\sample\demo\stageChange-188\lib\BasicModel\bin\Debug\BasicModel.pdb
+C:\Users\Public\Documents\PSM\sample\demo\stageChange-188\lib\BasicModel\obj\Debug\BasicModel.dll
+C:\Users\Public\Documents\PSM\sample\demo\stageChange-188\lib\BasicModel\obj\Debug\BasicModel.pdb

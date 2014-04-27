@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root version="1.0">
+  <info w="512" h="256" />
+  <textures>
+    <texture filename="2Dtex\uppertooth.png" x="0" y="0" w="128" h="64" />
+    <texture filename="2Dtex\undertooth.png" x="0" y="65" w="128" h="64" />
+    <texture filename="2Dtex\Fukidashi1.png" x="0" y="130" w="128" h="40" />
+    <texture filename="2Dtex\Fukidashi2.png" x="0" y="171" w="128" h="40" />
+    <texture filename="2Dtex\Gareki_notloop.png" x="0" y="212" w="96" h="32" />
+    <texture filename="2Dtex\wall.png" x="97" y="212" w="96" h="32" />
+    <texture filename="2Dtex\NouminTower1.png" x="129" y="0" w="32" h="64" />
+    <texture filename="2Dtex\tower3.png" x="129" y="65" w="32" h="64" />
+    <texture filename="2Dtex\SouryoTower2.png" x="129" y="130" w="32" h="64" />
+    <texture filename="2Dtex\SouryoTower1.png" x="162" y="0" w="32" h="64" />
+    <texture filename="2Dtex\SenshiTower1.png" x="162" y="65" w="32" h="64" />
+    <texture filename="2Dtex\SenshiTower2.png" x="162" y="130" w="32" h="64" />
+    <texture filename="2Dtex\Monument.png" x="195" y="0" w="32" h="64" />
+    <texture filename="2Dtex\Necromancer.png" x="195" y="65" w="24" h="48" />
+    <texture filename="2Dtex\NouminHouse4.png" x="195" y="114" w="24" h="48" />
+    <texture filename="2Dtex\NouminHouse2.png" x="195" y="163" w="24" h="48" />
+    <texture filename="2Dtex\NouminHouse5.png" x="220" y="65" w="24" h="48" />
+    <texture filename="2Dtex\NouminHouse3.png" x="220" y="114" w="24" h="48" />
+    <texture filename="2Dtex\tower2.png" x="194" y="212" w="32" h="32" />
+    <texture filename="2Dtex\koukaon.png" x="220" y="163" w="32" h="32" />
+    <texture filename="2Dtex\tower1.png" x="227" y="212" w="32" h="32" />
+    <texture filename="2Dtex\SenshiHouse1.png" x="228" y="0" w="32" h="32" />
+    <texture filename="2Dtex\NouminHouse1.png" x="228" y="33" w="32" h="32" />
+    <texture filename="2Dtex\SenshiHouse2.png" x="245" y="65" w="32" h="32" />
+    <texture filename="2Dtex\Gareki.png" x="245" y="98" w="32" h="32" />
+    <texture filename="2Dtex\SouryoHouse1.png" x="245" y="131" w="32" h="32" />
+    <texture filename="2Dtex\SouryoHouse5.png" x="261" y="0" w="16" h="24" />
+    <texture filename="2Dtex\Zonbi2.png" x="261" y="25" w="16" h="24" />
+    <texture filename="2Dtex\Zonbi.png" x="253" y="163" w="16" h="24" />
+    <texture filename="2Dtex\SouryoHouse4.png" x="253" y="188" w="16" h="24" />
+    <texture filename="2Dtex\Senshi.png" x="260" y="212" w="16" h="24" />
+    <texture filename="2Dtex\SenshiHouse3.png" x="270" y="163" w="16" h="24" />
+    <texture filename="2Dtex\Senshi2.png" x="270" y="188" w="16" h="24" />
+    <texture filename="2Dtex\Noumin2.png" x="277" y="212" w="16" h="24" />
+    <texture filename="2Dtex\Noumin.png" x="278" y="0" w="16" h="24" />
+    <texture filename="2Dtex\SenshiHouse4.png" x="278" y="25" w="16" h="24" />
+    <texture filename="2Dtex\SouryoHouse2.png" x="278" y="50" w="16" h="24" />
+    <texture filename="2Dtex\SouryoHouse3.png" x="278" y="75" w="16" h="24" />
+    <texture filename="2Dtex\Souryo.png" x="278" y="100" w="16" h="24" />
+    <texture filename="2Dtex\SenshiHouse5.png" x="278" y="125" w="16" h="24" />
+    <texture filename="2Dtex\Souryo2.png" x="287" y="163" w="16" h="24" />
+  </textures>
+</root>

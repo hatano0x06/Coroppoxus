@@ -1,0 +1,9 @@
+C:\Documents and Settings\All Users\Documents\PSM\sample\demo\lib\DemoGameLib\bin\Debug\DemoGameLib.dll
+C:\Documents and Settings\All Users\Documents\PSM\sample\demo\lib\DemoGameLib\bin\Debug\DemoGameLib.pdb
+C:\Documents and Settings\All Users\Documents\PSM\sample\demo\lib\DemoGameLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\All Users\Documents\PSM\sample\demo\lib\DemoGameLib\obj\Debug\DemoGameLib.dll
+C:\Documents and Settings\All Users\Documents\PSM\sample\demo\lib\DemoGameLib\obj\Debug\DemoGameLib.pdb
+C:\Users\Public\Documents\PSM\sample\demo\stageChange-188\lib\DemoGameLib\bin\Debug\DemoGameLib.dll
+C:\Users\Public\Documents\PSM\sample\demo\stageChange-188\lib\DemoGameLib\bin\Debug\DemoGameLib.pdb
+C:\Users\Public\Documents\PSM\sample\demo\stageChange-188\lib\DemoGameLib\obj\Debug\DemoGameLib.dll
+C:\Users\Public\Documents\PSM\sample\demo\stageChange-188\lib\DemoGameLib\obj\Debug\DemoGameLib.pdb

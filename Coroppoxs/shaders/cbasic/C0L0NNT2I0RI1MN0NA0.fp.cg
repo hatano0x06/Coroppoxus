@@ -1,0 +1,32 @@
+/* PlayStation(R)Mobile SDK 1.11.01
+ * Copyright (C) 2013 Sony Computer Entertainment Inc.
+ * All Rights Reserved.
+ */
+//地面・陸上
+//------------------------------------------------------------------------------------------
+void main(
+	float2 in v_TexCoord00			: TEXCOORD0,
+	float2 in v_TexCoord01			: TEXCOORD1,
+
+	float4 out Color				: COLOR,
+
+	uniform sampler2D Texture00,
+	uniform sampler2D Texture01,
+	uniform float RateLight
+)
+{
+		float4 texColor;
+
+		texColor = tex2D( Texture00, v_TexCoord00 );
+		float4 dstColor = texColor/(1+RateLight);
+//		float4 dstColor = texColor/2;
+/*		
+	dstColor.x= 0.5f;
+	dstColor.y= 0.5f;
+	dstColor.z= 0.5f;
+	dstColor.w= 0.5f;
+*/
+
+		texColor = tex2D( Texture01, v_TexCoord01 );
+		Color = dstColor * texColor;
+}

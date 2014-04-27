@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root version="1.0">
+  <info w="563" h="644" />
+  <textures>
+    <texture filename="Title.png" x="0" y="0" w="512" h="512" />
+    <texture filename="undertooth.png" x="0" y="513" w="128" h="64" />
+    <texture filename="uppertooth.png" x="129" y="513" w="128" h="64" />
+    <texture filename="NouminHouse2.png" x="513" y="0" w="32" h="192" />
+    <texture filename="Fukidashi1.png" x="258" y="513" w="128" h="40" />
+    <texture filename="Life_Gauge.png" x="387" y="513" w="128" h="40" />
+    <texture filename="Fukidashi2.png" x="258" y="554" w="128" h="40" />
+    <texture filename="Boss_house.png" x="387" y="554" w="64" h="64" />
+    <texture filename="wall.png" x="0" y="578" w="96" h="32" />
+    <texture filename="Gareki_notloop.png" x="97" y="578" w="96" h="32" />
+    <texture filename="SouryoTower1.png" x="513" y="193" w="32" h="64" />
+    <texture filename="tower3.png" x="513" y="258" w="32" h="64" />
+    <texture filename="SenshiTower1.png" x="513" y="323" w="32" h="64" />
+    <texture filename="SouryoTower2.png" x="513" y="388" w="32" h="64" />
+    <texture filename="SenshiTower2.png" x="452" y="554" w="32" h="64" />
+    <texture filename="Monument.png" x="485" y="554" w="32" h="64" />
+    <texture filename="NouminTower1.png" x="518" y="554" w="32" h="64" />
+    <texture filename="NouminHouse3.png" x="513" y="453" w="24" h="48" />
+    <texture filename="Necromancer.png" x="194" y="578" w="24" h="48" />
+    <texture filename="NouminHouse4.png" x="219" y="578" w="24" h="48" />
+    <texture filename="NouminHouse5.png" x="538" y="453" w="24" h="48" />
+    <texture filename="koukaon.png" x="516" y="513" w="32" h="32" />
+    <texture filename="tower2.png" x="258" y="595" w="32" h="32" />
+    <texture filename="tower1.png" x="291" y="595" w="32" h="32" />
+    <texture filename="SouryoHouse1.png" x="324" y="595" w="32" h="32" />
+    <texture filename="SenshiHouse2.png" x="0" y="611" w="32" h="32" />
+    <texture filename="SenshiHouse1.png" x="33" y="611" w="32" h="32" />
+    <texture filename="Gareki.png" x="66" y="611" w="32" h="32" />
+    <texture filename="NouminHouse1.png" x="99" y="611" w="32" h="32" />
+    <texture filename="Zonbi.png" x="546" y="0" w="16" h="24" />
+    <texture filename="SenshiHouse4.png" x="546" y="25" w="16" h="24" />
+    <texture filename="SenshiHouse5.png" x="546" y="50" w="16" h="24" />
+    <texture filename="SenshiHouse3.png" x="546" y="75" w="16" h="24" />
+    <texture filename="Noumin.png" x="546" y="100" w="16" h="24" />
+    <texture filename="Senshi.png" x="546" y="125" w="16" h="24" />
+    <texture filename="SouryoHouse4.png" x="546" y="150" w="16" h="24" />
+    <texture filename="SouryoHouse5.png" x="546" y="175" w="16" h="24" />
+    <texture filename="SouryoHouse3.png" x="132" y="611" w="16" h="24" />
+    <texture filename="Souryo.png" x="546" y="200" w="16" h="24" />
+    <texture filename="SouryoHouse2.png" x="149" y="611" w="16" h="24" />
+  </textures>
+</root>
